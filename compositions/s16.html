@@ -1,0 +1,24 @@
+<template>
+<style>
+#root { position: absolute; inset: 0; overflow: hidden; }
+</style>
+<div id="root" data-composition-id="s16" data-width="1080" data-height="1920">
+<div id="s16-g" data-layout-allow-overflow style="position:absolute;inset:0;overflow:hidden;background:#f5f3ee"><div id="s16-b0" data-layout-ignore style="position:absolute;left:388px;top:-272px;width:583px;height:583px;border-radius:26%;background:#e1e0db"></div><div id="s16-b1" data-layout-ignore style="position:absolute;left:691px;top:184px;width:475px;height:475px;border-radius:50%;background:#e1e0db"></div><div id="s16-b2" data-layout-ignore style="position:absolute;left:-86px;top:642px;width:367px;height:367px;border-radius:26%;background:#e1e0db"></div><div id="s16-b3" data-layout-ignore style="position:absolute;left:216px;top:1099px;width:259px;height:259px;border-radius:50%;background:#e1e0db"></div><div id="s16-b4" data-layout-ignore style="position:absolute;left:302px;top:1340px;width:583px;height:583px;border-radius:26%;background:#e1e0db"></div></div><div id="s16-c" style="position:absolute;inset:0"><div id="s16-t" style="position:absolute;left:77px;width:926px;top:597px;text-align:center;font-family:'Montserrat',sans-serif;font-weight:900;font-size:117px;line-height:1.08;"><span id="s16-t-w0" style="display:inline-block;color:#14142b;opacity:0">even</span> <span id="s16-t-w1" style="display:inline-block;color:#14142b;opacity:0">when</span> <span id="s16-t-w2" style="display:inline-block;color:#14142b;opacity:0">the</span> <span id="s16-t-w3" style="display:inline-block;color:#14142b;opacity:0">headlines</span> <span id="s16-t-w4" style="display:inline-block;color:#14142b;opacity:0">don&#x27;t</span></div></div>
+</div>
+<script>
+(function(){
+const tl = gsap.timeline({ paused: true });
+tl.fromTo("#s16-b0",{x:0,y:0,rotation:0},{x:150,y:-170,rotation:-18,duration:2.27,ease:"none"},0);
+tl.fromTo("#s16-b1",{x:0,y:0,rotation:0},{x:-195,y:-230,rotation:0,duration:2.27,ease:"none"},0);
+tl.fromTo("#s16-b2",{x:0,y:0,rotation:0},{x:240,y:-290,rotation:-18,duration:2.27,ease:"none"},0);
+tl.fromTo("#s16-b3",{x:0,y:0,rotation:0},{x:-285,y:-350,rotation:0,duration:2.27,ease:"none"},0);
+tl.fromTo("#s16-b4",{x:0,y:0,rotation:0},{x:330,y:-410,rotation:-18,duration:2.27,ease:"none"},0);
+tl.fromTo("#s16-t-w0",{opacity:0,scale:0.2},{opacity:1,scale:1.15,duration:0.14,ease:"back.out(2)"},0.17);tl.to("#s16-t-w0",{scale:1,duration:0.08},0.31);tl.fromTo("#s16-t-w1",{opacity:0,scale:0.2},{opacity:1,scale:1.15,duration:0.14,ease:"back.out(2)"},0.24);tl.to("#s16-t-w1",{scale:1,duration:0.08},0.38);tl.fromTo("#s16-t-w2",{opacity:0,scale:0.2},{opacity:1,scale:1.15,duration:0.14,ease:"back.out(2)"},0.31);tl.to("#s16-t-w2",{scale:1,duration:0.08},0.45);tl.fromTo("#s16-t-w3",{opacity:0,scale:0.2},{opacity:1,scale:1.15,duration:0.14,ease:"back.out(2)"},0.38);tl.to("#s16-t-w3",{scale:1,duration:0.08},0.52);tl.fromTo("#s16-t-w4",{opacity:0,scale:0.2},{opacity:1,scale:1.15,duration:0.14,ease:"back.out(2)"},0.45);tl.to("#s16-t-w4",{scale:1,duration:0.08},0.59);
+tl.fromTo("#s16-c",{scale:1},{scale:1.1,duration:0.12,ease:"power2.out",yoyo:true,repeat:1},0.75);
+tl.fromTo("#s16-c",{scale:1.8,opacity:0,filter:"blur(12px)"},{scale:1,opacity:1,filter:"blur(0px)",duration:0.38,ease:"power2.out"},0);
+tl.to("#s16-c",{scale:1.8,opacity:0,filter:"blur(12px)",duration:0.38,ease:"power2.in"},1.49);
+tl.set({}, {}, 1.873);
+window.__timelines["s16"] = tl;
+})();
+</script>
+</template>

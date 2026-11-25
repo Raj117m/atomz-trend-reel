@@ -1,0 +1,22 @@
+<template>
+<style>
+#root { position: absolute; inset: 0; overflow: hidden; }
+</style>
+<div id="root" data-composition-id="s12" data-width="1080" data-height="1920">
+<div id="s12-g" data-layout-allow-overflow style="position:absolute;inset:0;overflow:hidden;background:#f5f3ee"><div id="s12-b0" data-layout-ignore style="position:absolute;left:734px;top:649px;width:583px;height:583px;border-radius:26%;background:#e1e0db"></div><div id="s12-b1" data-layout-ignore style="position:absolute;left:-43px;top:1106px;width:475px;height:475px;border-radius:50%;background:#e1e0db"></div><div id="s12-b2" data-layout-ignore style="position:absolute;left:259px;top:1563px;width:367px;height:367px;border-radius:26%;background:#e1e0db"></div><div id="s12-b3" data-layout-ignore style="position:absolute;left:561px;top:100px;width:259px;height:259px;border-radius:50%;background:#e1e0db"></div><div id="s12-b4" data-layout-ignore style="position:absolute;left:648px;top:342px;width:583px;height:583px;border-radius:26%;background:#e1e0db"></div></div><div id="s12-c" style="position:absolute;inset:0"><div id="s12-t" style="position:absolute;left:77px;width:926px;top:597px;text-align:center;font-family:'Montserrat',sans-serif;font-weight:900;font-size:117px;line-height:1.08;"><span id="s12-t-w0" style="display:inline-block;color:#14142b;opacity:0">one</span> <span id="s12-t-w1" style="display:inline-block;color:#14142b;opacity:0">who</span> <span id="s12-t-w2" style="display:inline-block;color:#14142b;opacity:0">stays</span> <span id="s12-t-w3" style="display:inline-block;color:#14142b;opacity:0">on</span> <span id="s12-t-w4" style="display:inline-block;color:#14142b;opacity:0">top</span> <span id="s12-t-w5" style="display:inline-block;color:#14142b;opacity:0">of</span> <span id="s12-t-w6" style="display:inline-block;color:#14142b;opacity:0">it</span></div></div>
+</div>
+<script>
+(function(){
+const tl = gsap.timeline({ paused: true });
+tl.fromTo("#s12-b0",{x:0,y:0,rotation:0},{x:150,y:-170,rotation:-18,duration:2.25,ease:"none"},0);
+tl.fromTo("#s12-b1",{x:0,y:0,rotation:0},{x:-195,y:-230,rotation:0,duration:2.25,ease:"none"},0);
+tl.fromTo("#s12-b2",{x:0,y:0,rotation:0},{x:240,y:-290,rotation:-18,duration:2.25,ease:"none"},0);
+tl.fromTo("#s12-b3",{x:0,y:0,rotation:0},{x:-285,y:-350,rotation:0,duration:2.25,ease:"none"},0);
+tl.fromTo("#s12-b4",{x:0,y:0,rotation:0},{x:330,y:-410,rotation:-18,duration:2.25,ease:"none"},0);
+tl.fromTo("#s12-t-w0",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.17);tl.fromTo("#s12-t-w1",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.24);tl.fromTo("#s12-t-w2",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.31);tl.fromTo("#s12-t-w3",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.38);tl.fromTo("#s12-t-w4",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.45);tl.fromTo("#s12-t-w5",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.52);tl.fromTo("#s12-t-w6",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.59);
+tl.fromTo("#s12-c",{scale:1},{scale:1.1,duration:0.12,ease:"power2.out",yoyo:true,repeat:1},0.74);
+tl.set({}, {}, 1.854);
+window.__timelines["s12"] = tl;
+})();
+</script>
+</template>

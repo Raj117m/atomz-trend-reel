@@ -1,0 +1,487 @@
+{
+  "lines": [
+    {
+      "start": 0.2,
+      "end": 4.137
+    },
+    {
+      "start": 4.337,
+      "end": 7.477
+    },
+    {
+      "start": 7.677,
+      "end": 9.591
+    },
+    {
+      "start": 9.791,
+      "end": 13.238
+    },
+    {
+      "start": 13.438,
+      "end": 18.088
+    },
+    {
+      "start": 18.288,
+      "end": 22.233
+    },
+    {
+      "start": 22.583,
+      "end": 26.546
+    },
+    {
+      "start": 26.746,
+      "end": 30.241
+    },
+    {
+      "start": 30.441,
+      "end": 33.46
+    },
+    {
+      "start": 33.81,
+      "end": 38.155
+    }
+  ],
+  "words": [
+    {
+      "text": "NVIDIA's",
+      "start": 0.2,
+      "end": 0.893
+    },
+    {
+      "text": "CEO",
+      "start": 0.893,
+      "end": 1.221
+    },
+    {
+      "text": "just",
+      "start": 1.221,
+      "end": 1.622
+    },
+    {
+      "text": "resigned.",
+      "start": 1.622,
+      "end": 2.387
+    },
+    {
+      "text": "Effective",
+      "start": 2.387,
+      "end": 3.153
+    },
+    {
+      "text": "immediately.",
+      "start": 3.153,
+      "end": 4.137
+    },
+    {
+      "text": "Colette",
+      "start": 4.337,
+      "end": 5.058
+    },
+    {
+      "text": "Kress",
+      "start": 5.058,
+      "end": 5.61
+    },
+    {
+      "text": "is",
+      "start": 5.61,
+      "end": 5.907
+    },
+    {
+      "text": "now",
+      "start": 5.907,
+      "end": 6.289
+    },
+    {
+      "text": "interim",
+      "start": 6.289,
+      "end": 7.011
+    },
+    {
+      "text": "CEO.",
+      "start": 7.011,
+      "end": 7.477
+    },
+    {
+      "text": "Big",
+      "start": 7.677,
+      "end": 7.917
+    },
+    {
+      "text": "changes",
+      "start": 7.917,
+      "end": 8.368
+    },
+    {
+      "text": "like",
+      "start": 8.368,
+      "end": 8.661
+    },
+    {
+      "text": "that",
+      "start": 8.661,
+      "end": 8.953
+    },
+    {
+      "text": "land",
+      "start": 8.953,
+      "end": 9.245
+    },
+    {
+      "text": "fast.",
+      "start": 9.245,
+      "end": 9.591
+    },
+    {
+      "text": "For",
+      "start": 9.791,
+      "end": 10.017
+    },
+    {
+      "text": "a",
+      "start": 10.017,
+      "end": 10.143
+    },
+    {
+      "text": "small",
+      "start": 10.143,
+      "end": 10.47
+    },
+    {
+      "text": "business",
+      "start": 10.47,
+      "end": 10.948
+    },
+    {
+      "text": "owner,",
+      "start": 10.948,
+      "end": 11.326
+    },
+    {
+      "text": "the",
+      "start": 11.326,
+      "end": 11.552
+    },
+    {
+      "text": "same",
+      "start": 11.552,
+      "end": 11.829
+    },
+    {
+      "text": "thing",
+      "start": 11.829,
+      "end": 12.156
+    },
+    {
+      "text": "happens",
+      "start": 12.156,
+      "end": 12.584
+    },
+    {
+      "text": "every",
+      "start": 12.584,
+      "end": 12.911
+    },
+    {
+      "text": "week.",
+      "start": 12.911,
+      "end": 13.238
+    },
+    {
+      "text": "A",
+      "start": 13.438,
+      "end": 13.623
+    },
+    {
+      "text": "new",
+      "start": 13.623,
+      "end": 13.955
+    },
+    {
+      "text": "client,",
+      "start": 13.955,
+      "end": 14.582
+    },
+    {
+      "text": "a",
+      "start": 14.582,
+      "end": 14.767
+    },
+    {
+      "text": "late",
+      "start": 14.767,
+      "end": 15.173
+    },
+    {
+      "text": "supplier,",
+      "start": 15.173,
+      "end": 15.948
+    },
+    {
+      "text": "a",
+      "start": 15.948,
+      "end": 16.132
+    },
+    {
+      "text": "message",
+      "start": 16.132,
+      "end": 16.76
+    },
+    {
+      "text": "nobody",
+      "start": 16.76,
+      "end": 17.313
+    },
+    {
+      "text": "answered.",
+      "start": 17.313,
+      "end": 18.088
+    },
+    {
+      "text": "The",
+      "start": 18.288,
+      "end": 18.553
+    },
+    {
+      "text": "owner",
+      "start": 18.553,
+      "end": 18.936
+    },
+    {
+      "text": "who",
+      "start": 18.936,
+      "end": 19.201
+    },
+    {
+      "text": "stays",
+      "start": 19.201,
+      "end": 19.584
+    },
+    {
+      "text": "calm",
+      "start": 19.584,
+      "end": 19.907
+    },
+    {
+      "text": "is",
+      "start": 19.907,
+      "end": 20.114
+    },
+    {
+      "text": "the",
+      "start": 20.114,
+      "end": 20.379
+    },
+    {
+      "text": "one",
+      "start": 20.379,
+      "end": 20.643
+    },
+    {
+      "text": "who",
+      "start": 20.643,
+      "end": 20.908
+    },
+    {
+      "text": "stays",
+      "start": 20.908,
+      "end": 21.291
+    },
+    {
+      "text": "on",
+      "start": 21.291,
+      "end": 21.497
+    },
+    {
+      "text": "top",
+      "start": 21.497,
+      "end": 21.762
+    },
+    {
+      "text": "of",
+      "start": 21.762,
+      "end": 21.968
+    },
+    {
+      "text": "it.",
+      "start": 21.968,
+      "end": 22.233
+    },
+    {
+      "text": "ATOM",
+      "start": 22.583,
+      "end": 22.899
+    },
+    {
+      "text": "ZEE",
+      "start": 22.899,
+      "end": 23.158
+    },
+    {
+      "text": "keeps",
+      "start": 23.158,
+      "end": 23.531
+    },
+    {
+      "text": "things",
+      "start": 23.531,
+      "end": 23.962
+    },
+    {
+      "text": "moving.",
+      "start": 23.962,
+      "end": 24.45
+    },
+    {
+      "text": "Tasks",
+      "start": 24.45,
+      "end": 24.823
+    },
+    {
+      "text": "tracked,",
+      "start": 24.823,
+      "end": 25.369
+    },
+    {
+      "text": "reminders",
+      "start": 25.369,
+      "end": 25.972
+    },
+    {
+      "text": "on",
+      "start": 25.972,
+      "end": 26.173
+    },
+    {
+      "text": "time.",
+      "start": 26.173,
+      "end": 26.546
+    },
+    {
+      "text": "So",
+      "start": 26.746,
+      "end": 26.942
+    },
+    {
+      "text": "the",
+      "start": 26.942,
+      "end": 27.194
+    },
+    {
+      "text": "day",
+      "start": 27.194,
+      "end": 27.445
+    },
+    {
+      "text": "runs",
+      "start": 27.445,
+      "end": 27.753
+    },
+    {
+      "text": "on",
+      "start": 27.753,
+      "end": 27.948
+    },
+    {
+      "text": "rails,",
+      "start": 27.948,
+      "end": 28.368
+    },
+    {
+      "text": "even",
+      "start": 28.368,
+      "end": 28.675
+    },
+    {
+      "text": "when",
+      "start": 28.675,
+      "end": 28.983
+    },
+    {
+      "text": "the",
+      "start": 28.983,
+      "end": 29.235
+    },
+    {
+      "text": "headlines",
+      "start": 29.235,
+      "end": 29.822
+    },
+    {
+      "text": "don't.",
+      "start": 29.822,
+      "end": 30.241
+    },
+    {
+      "text": "You're",
+      "start": 30.441,
+      "end": 30.974
+    },
+    {
+      "text": "still",
+      "start": 30.974,
+      "end": 31.436
+    },
+    {
+      "text": "the",
+      "start": 31.436,
+      "end": 31.755
+    },
+    {
+      "text": "one",
+      "start": 31.755,
+      "end": 32.075
+    },
+    {
+      "text": "making",
+      "start": 32.075,
+      "end": 32.608
+    },
+    {
+      "text": "the",
+      "start": 32.608,
+      "end": 32.927
+    },
+    {
+      "text": "calls.",
+      "start": 32.927,
+      "end": 33.46
+    },
+    {
+      "text": "Steady",
+      "start": 33.81,
+      "end": 34.668
+    },
+    {
+      "text": "operations,",
+      "start": 34.668,
+      "end": 36.097
+    },
+    {
+      "text": "at",
+      "start": 36.097,
+      "end": 36.497
+    },
+    {
+      "text": "atomz.online.",
+      "start": 36.497,
+      "end": 38.155
+    }
+  ],
+  "emotions": [
+    "tense",
+    "curious",
+    "tense",
+    "frustrated",
+    "frustrated",
+    "warm",
+    "confident",
+    "relief",
+    "confident",
+    "excited"
+  ],
+  "mode": "tts",
+  "voice": "Chatterbox (cloned from af_heart reference), trimmed",
+  "speed": "atempo 1.12 setup / 1.05 key",
+  "total": 39.555
+}

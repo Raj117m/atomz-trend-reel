@@ -1,0 +1,27 @@
+<template>
+<style>
+#root { position: absolute; inset: 0; overflow: hidden; }
+</style>
+<div id="root" data-composition-id="s11" data-width="1080" data-height="1920">
+<div id="s11-g" data-layout-allow-overflow style="position:absolute;inset:0;overflow:hidden;background:#ff5a5f"><div id="s11-b0" data-layout-ignore style="position:absolute;left:604px;top:453px;width:475px;height:475px;border-radius:50%;background:#ff7479"></div><div id="s11-b1" data-layout-ignore style="position:absolute;left:-172px;top:910px;width:367px;height:367px;border-radius:26%;background:#ff7479"></div><div id="s11-b2" data-layout-ignore style="position:absolute;left:129px;top:1368px;width:259px;height:259px;border-radius:50%;background:#ff7479"></div><div id="s11-b3" data-layout-ignore style="position:absolute;left:216px;top:1609px;width:583px;height:583px;border-radius:26%;background:#ff7479"></div><div id="s11-b4" data-layout-ignore style="position:absolute;left:518px;top:146px;width:475px;height:475px;border-radius:50%;background:#ff7479"></div></div><div id="s11-c" style="position:absolute;inset:0"><div style="position:absolute;left:341px;top:636px;width:399px;height:399px"><div id="s11-v" style="width:399px;height:399px;opacity:0"><div id="s11-vi" style="width:399px;height:399px"><svg viewBox="0 0 100 100" width="399" height="399"><path d="M50 88C20 66 6 50 6 32a22 22 0 0 1 44-6 22 22 0 0 1 44 6c0 18-14 34-44 56z" fill="#ffffff"/></svg></div></div></div><div id="s11-t" style="position:absolute;left:77px;width:926px;top:300px;text-align:center;font-family:'Montserrat',sans-serif;font-weight:900;font-size:99px;line-height:1.08;"><span id="s11-t-w0" style="display:inline-block;color:#14142b;opacity:0">The</span> <span id="s11-t-w1" style="display:inline-block;color:#14142b;opacity:0">owner</span> <span id="s11-t-w2" style="display:inline-block;color:#14142b;opacity:0">who</span> <span id="s11-t-w3" style="display:inline-block;color:#14142b;opacity:0">stays</span> <span id="s11-t-w4" style="display:inline-block;color:#14142b;opacity:0">calm</span></div></div>
+</div>
+<script>
+(function(){
+const tl = gsap.timeline({ paused: true });
+tl.fromTo("#s11-b0",{x:0,y:0,rotation:0},{x:-150,y:-170,rotation:0,duration:2.49,ease:"none"},0);
+tl.fromTo("#s11-b1",{x:0,y:0,rotation:0},{x:195,y:-230,rotation:18,duration:2.49,ease:"none"},0);
+tl.fromTo("#s11-b2",{x:0,y:0,rotation:0},{x:-240,y:-290,rotation:0,duration:2.49,ease:"none"},0);
+tl.fromTo("#s11-b3",{x:0,y:0,rotation:0},{x:285,y:-350,rotation:18,duration:2.49,ease:"none"},0);
+tl.fromTo("#s11-b4",{x:0,y:0,rotation:0},{x:-330,y:-410,rotation:0,duration:2.49,ease:"none"},0);
+tl.fromTo("#s11-v",{x:756,opacity:0,rotation:14},{x:0,opacity:1,rotation:0,duration:0.55,ease:"expo.out"},0.05);
+tl.fromTo("#s11-vi",{y:-23,rotation:-4},{y:23,rotation:4,duration:0.9,ease:"sine.inOut",yoyo:true,repeat:3},0);
+tl.to("#s11-v",{rotation:-6,duration:0.32,ease:"sine.inOut",yoyo:true,repeat:1},1.1);
+tl.fromTo("#s11-t-w0",{opacity:0,x:129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.17);tl.fromTo("#s11-t-w1",{opacity:0,x:-129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.24);tl.fromTo("#s11-t-w2",{opacity:0,x:129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.31);tl.fromTo("#s11-t-w3",{opacity:0,x:-129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.38);tl.fromTo("#s11-t-w4",{opacity:0,x:129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.45);
+tl.fromTo("#s11-c",{scale:1},{scale:1.14,duration:2.091,ease:"none"},0);
+tl.fromTo("#s11-c",{x:972,filter:"blur(22px)"},{x:0,filter:"blur(0px)",duration:0.38,ease:"power3.out"},0);
+tl.to("#s11-c",{x:-972,filter:"blur(22px)",duration:0.38,ease:"power3.in"},1.71);
+tl.set({}, {}, 2.091);
+window.__timelines["s11"] = tl;
+})();
+</script>
+</template>

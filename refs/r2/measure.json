@@ -1,0 +1,495 @@
+{
+  "file": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/src/video.mp4",
+  "width": 720,
+  "height": 1280,
+  "fps": 30.0,
+  "duration": 60.14,
+  "measured_seconds": 60.1,
+  "truncated": false,
+  "shots": {
+    "note": "events = hard cuts merged with background-colour changes; soft morphs inside one ground are not counted",
+    "events": [
+      1.9,
+      5.0,
+      6.1,
+      11.4,
+      13.1,
+      14.3,
+      17.6,
+      20.1,
+      21.8,
+      23.3,
+      26.1,
+      27.9,
+      32.2,
+      36.1,
+      37.0,
+      38.3,
+      42.4,
+      43.1,
+      44.6,
+      45.3,
+      46.0,
+      48.3,
+      52.6,
+      57.0,
+      58.6
+    ],
+    "count": 26,
+    "per_10s": 4.16,
+    "length_s": {
+      "median": 1.75,
+      "p25": 1.35,
+      "p75": 3.25,
+      "min": 0.7,
+      "max": 5.3
+    },
+    "hard_cuts": [
+      5.0,
+      6.1,
+      17.6,
+      20.1,
+      21.8,
+      27.9,
+      32.2,
+      36.1,
+      38.3,
+      45.3,
+      48.3,
+      52.6
+    ],
+    "hard_cut_share": 0.48
+  },
+  "visual_beats": {
+    "note": "shot events plus motion bursts (zooms, wipes, morphs): how often something new happens",
+    "times": [
+      1.9,
+      5.0,
+      6.0,
+      11.4,
+      13.0,
+      14.2,
+      16.2,
+      17.5,
+      20.0,
+      21.8,
+      23.3,
+      25.8,
+      27.8,
+      32.2,
+      33.4,
+      36.1,
+      37.0,
+      38.3,
+      42.4,
+      44.6,
+      46.0,
+      48.2,
+      52.6,
+      57.0,
+      58.6
+    ],
+    "per_10s": 4.16,
+    "gap_s": {
+      "median": 1.95,
+      "p25": 1.42,
+      "p75": 2.65,
+      "min": 0.9,
+      "max": 5.4
+    }
+  },
+  "ground": {
+    "changes": 31,
+    "hold_s": {
+      "median": 1.25,
+      "p25": 0.4,
+      "p75": 2.95,
+      "min": 0.3,
+      "max": 5.3
+    },
+    "share_of_frame": 0.462,
+    "colours_by_time": [
+      {
+        "hex": "#000040",
+        "seconds": 5.5
+      },
+      {
+        "hex": "#202060",
+        "seconds": 5.3
+      },
+      {
+        "hex": "#102070",
+        "seconds": 5.2
+      },
+      {
+        "hex": "#e05050",
+        "seconds": 4.4
+      },
+      {
+        "hex": "#302060",
+        "seconds": 4.4
+      },
+      {
+        "hex": "#00c0e0",
+        "seconds": 4.3
+      },
+      {
+        "hex": "#500070",
+        "seconds": 4.1
+      },
+      {
+        "hex": "#203090",
+        "seconds": 3.3
+      }
+    ],
+    "sequence": [
+      {
+        "start": 0.0,
+        "end": 0.4,
+        "hex": "#3d7dfd"
+      },
+      {
+        "start": 0.4,
+        "end": 1.9,
+        "hex": "#7b3277"
+      },
+      {
+        "start": 1.9,
+        "end": 5.0,
+        "hex": "#e05151"
+      },
+      {
+        "start": 5.0,
+        "end": 6.1,
+        "hex": "#a80226"
+      },
+      {
+        "start": 6.1,
+        "end": 11.4,
+        "hex": "#1b2562"
+      },
+      {
+        "start": 11.4,
+        "end": 13.1,
+        "hex": "#8cdaf6"
+      },
+      {
+        "start": 13.1,
+        "end": 14.3,
+        "hex": "#00043c"
+      },
+      {
+        "start": 14.3,
+        "end": 17.6,
+        "hex": "#1f2a88"
+      },
+      {
+        "start": 17.6,
+        "end": 20.4,
+        "hex": "#70d0fd"
+      },
+      {
+        "start": 20.4,
+        "end": 23.3,
+        "hex": "#000e59"
+      },
+      {
+        "start": 23.3,
+        "end": 26.1,
+        "hex": "#000829"
+      },
+      {
+        "start": 26.1,
+        "end": 27.9,
+        "hex": "#3a096c"
+      },
+      {
+        "start": 27.9,
+        "end": 32.2,
+        "hex": "#00b8e7"
+      },
+      {
+        "start": 32.2,
+        "end": 36.1,
+        "hex": "#16226b"
+      },
+      {
+        "start": 36.1,
+        "end": 37.0,
+        "hex": "#3278f5"
+      },
+      {
+        "start": 37.0,
+        "end": 38.3,
+        "hex": "#16226b"
+      },
+      {
+        "start": 38.3,
+        "end": 42.4,
+        "hex": "#4b016f"
+      },
+      {
+        "start": 42.4,
+        "end": 42.8,
+        "hex": "#871d69"
+      },
+      {
+        "start": 42.8,
+        "end": 43.1,
+        "hex": "#b13465"
+      },
+      {
+        "start": 43.1,
+        "end": 43.4,
+        "hex": "#d8495f"
+      },
+      {
+        "start": 43.4,
+        "end": 44.6,
+        "hex": "#fc5b5d"
+      },
+      {
+        "start": 44.6,
+        "end": 45.3,
+        "hex": "#fdfdfd"
+      },
+      {
+        "start": 45.3,
+        "end": 45.7,
+        "hex": "#1a6bad"
+      },
+      {
+        "start": 45.7,
+        "end": 46.0,
+        "hex": "#8503df"
+      },
+      {
+        "start": 46.0,
+        "end": 48.3,
+        "hex": "#1a6bad"
+      },
+      {
+        "start": 48.3,
+        "end": 52.6,
+        "hex": "#00043c"
+      },
+      {
+        "start": 52.6,
+        "end": 57.0,
+        "hex": "#281966"
+      },
+      {
+        "start": 57.0,
+        "end": 57.4,
+        "hex": "#e05151"
+      },
+      {
+        "start": 57.4,
+        "end": 58.6,
+        "hex": "#fbc45d"
+      },
+      {
+        "start": 58.6,
+        "end": 58.9,
+        "hex": "#7a3277"
+      },
+      {
+        "start": 58.9,
+        "end": 59.8,
+        "hex": "#e05151"
+      },
+      {
+        "start": 59.8,
+        "end": 60.1,
+        "hex": "#7a3277"
+      }
+    ]
+  },
+  "colour": {
+    "palette": [
+      {
+        "hex": "#1b236d",
+        "share": 0.304
+      },
+      {
+        "hex": "#6d1667",
+        "share": 0.138
+      },
+      {
+        "hex": "#02063f",
+        "share": 0.136
+      },
+      {
+        "hex": "#dc714e",
+        "share": 0.117
+      },
+      {
+        "hex": "#08b5e1",
+        "share": 0.104
+      },
+      {
+        "hex": "#3c64d8",
+        "share": 0.092
+      },
+      {
+        "hex": "#b7dcf4",
+        "share": 0.086
+      },
+      {
+        "hex": "#0c0b1f",
+        "share": 0.023
+      }
+    ],
+    "mean_saturation": 0.791,
+    "mean_brightness": 0.59,
+    "flat_share": 0.731
+  },
+  "motion": {
+    "note": "mean pixel change between frames at 10 fps, 0-1",
+    "median": 0.0151,
+    "p90": 0.0589,
+    "static_share": 0.122,
+    "per_second": [
+      0.036,
+      0.045,
+      0.041,
+      0.015,
+      0.039,
+      0.031,
+      0.057,
+      0.02,
+      0.009,
+      0.008,
+      0.008,
+      0.066,
+      0.063,
+      0.024,
+      0.035,
+      0.011,
+      0.027,
+      0.041,
+      0.006,
+      0.012,
+      0.03,
+      0.033,
+      0.013,
+      0.043,
+      0.008,
+      0.056,
+      0.013,
+      0.055,
+      0.008,
+      0.014,
+      0.008,
+      0.002,
+      0.064,
+      0.043,
+      0.013,
+      0.001,
+      0.081,
+      0.024,
+      0.033,
+      0.018,
+      0.005,
+      0.02,
+      0.037,
+      0.032,
+      0.032,
+      0.089,
+      0.046,
+      0.037,
+      0.048,
+      0.003,
+      0.003,
+      0.004,
+      0.027,
+      0.005,
+      0.013,
+      0.023,
+      0.049,
+      0.046,
+      0.035,
+      0.093
+    ]
+  },
+  "audio": {
+    "present": true,
+    "lufs": -14.1,
+    "true_peak_db": -2.0,
+    "range_lu": 1.7,
+    "silence_share": 0.0,
+    "tempo": null
+  },
+  "sheets": {
+    "contact": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/contact.jpg",
+    "hook": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/hook.jpg",
+    "events": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/events.jpg"
+  },
+  "meta": {
+    "title": "Video by kurzgesagt",
+    "uploader": "Kurzgesagt - In a nutshell",
+    "webpage_url": "https://www.instagram.com/reel/Deo2IVkit5u/",
+    "duration": null,
+    "upload_date": "20261018",
+    "source": "https://www.instagram.com/reel/Deo2IVkit5u/"
+  },
+  "transcript": {
+    "source": "local faster-whisper base (unverified: check names and numbers)",
+    "words": 197,
+    "words_per_second": 3.29
+  },
+  "frames": [
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0001.jpg",
+      "t": "00:00"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0002.jpg",
+      "t": "00:05"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0003.jpg",
+      "t": "00:06"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0004.jpg",
+      "t": "00:18"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0005.jpg",
+      "t": "00:20"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0006.jpg",
+      "t": "00:22"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0007.jpg",
+      "t": "00:28"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0008.jpg",
+      "t": "00:32"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0009.jpg",
+      "t": "00:36"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0010.jpg",
+      "t": "00:38"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0011.jpg",
+      "t": "00:45"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0012.jpg",
+      "t": "00:48"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r2/watch/watch-50oiv3kl/frames/frame_0013.jpg",
+      "t": "00:53"
+    }
+  ]
+}

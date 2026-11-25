@@ -1,0 +1,26 @@
+<template>
+<style>
+#root { position: absolute; inset: 0; overflow: hidden; }
+</style>
+<div id="root" data-composition-id="s04" data-width="1080" data-height="1920">
+<div id="s04-g" data-layout-allow-overflow style="position:absolute;inset:0;overflow:hidden;background:#f5f3ee"><div id="s04-b0" data-layout-ignore style="position:absolute;left:345px;top:572px;width:583px;height:583px;border-radius:26%;background:#e1e0db"></div><div id="s04-b1" data-layout-ignore style="position:absolute;left:648px;top:1029px;width:475px;height:475px;border-radius:50%;background:#e1e0db"></div><div id="s04-b2" data-layout-ignore style="position:absolute;left:-129px;top:1486px;width:367px;height:367px;border-radius:26%;background:#e1e0db"></div><div id="s04-b3" data-layout-ignore style="position:absolute;left:172px;top:24px;width:259px;height:259px;border-radius:50%;background:#e1e0db"></div><div id="s04-b4" data-layout-ignore style="position:absolute;left:259px;top:265px;width:583px;height:583px;border-radius:26%;background:#e1e0db"></div></div><div id="s04-c" style="position:absolute;inset:0"><div style="position:absolute;left:341px;top:636px;width:399px;height:399px"><div id="s04-v" style="width:399px;height:399px;opacity:0"><div id="s04-vi" style="width:399px;height:399px"><svg viewBox="0 0 100 100" width="399" height="399"><circle cx="50" cy="28" r="20" fill="#14142b"/><path d="M12 94c0-24 16-36 38-36s38 12 38 36z" fill="#14142b"/></svg></div></div></div><div id="s04-t" style="position:absolute;left:77px;width:926px;top:300px;text-align:center;font-family:'Montserrat',sans-serif;font-weight:900;font-size:99px;line-height:1.08;"><span id="s04-t-w0" style="display:inline-block;color:#14142b;opacity:0">now</span> <span id="s04-t-w1" style="display:inline-block;color:#14142b;opacity:0">interim</span> <span id="s04-t-w2" style="display:inline-block;color:#14142b;opacity:0">CEO</span></div></div>
+</div>
+<script>
+(function(){
+const tl = gsap.timeline({ paused: true });
+tl.fromTo("#s04-b0",{x:0,y:0,rotation:0},{x:150,y:-170,rotation:-18,duration:1.97,ease:"none"},0);
+tl.fromTo("#s04-b1",{x:0,y:0,rotation:0},{x:-195,y:-230,rotation:0,duration:1.97,ease:"none"},0);
+tl.fromTo("#s04-b2",{x:0,y:0,rotation:0},{x:240,y:-290,rotation:-18,duration:1.97,ease:"none"},0);
+tl.fromTo("#s04-b3",{x:0,y:0,rotation:0},{x:-285,y:-350,rotation:0,duration:1.97,ease:"none"},0);
+tl.fromTo("#s04-b4",{x:0,y:0,rotation:0},{x:330,y:-410,rotation:-18,duration:1.97,ease:"none"},0);
+tl.fromTo("#s04-v",{scale:1.6,opacity:0},{scale:1,opacity:1,duration:0.45,ease:"power4.out"},0.05);
+tl.fromTo("#s04-vi",{y:-23,rotation:-4},{y:23,rotation:4,duration:0.9,ease:"sine.inOut",yoyo:true,repeat:2},0);
+tl.fromTo("#s04-t-w0",{opacity:0,x:129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.17);tl.fromTo("#s04-t-w1",{opacity:0,x:-129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.24);tl.fromTo("#s04-t-w2",{opacity:0,x:129,scale:1.6},{opacity:1,x:0,scale:1,duration:0.3,ease:"expo.out"},0.31);
+tl.fromTo("#s04-c",{scale:1},{scale:1.1,duration:0.12,ease:"power2.out",yoyo:true,repeat:1},0.63);
+tl.fromTo("#s04-c",{x:-22,skewX:10,opacity:0.2},{x:0,skewX:0,opacity:1,duration:0.36,ease:"steps(6)"},0);
+tl.to("#s04-c",{x:22,skewX:-10,opacity:0.2,duration:0.36,ease:"steps(6)"},1.19);
+tl.set({}, {}, 1.57);
+window.__timelines["s04"] = tl;
+})();
+</script>
+</template>

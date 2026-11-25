@@ -1,0 +1,26 @@
+<template>
+<style>
+#root { position: absolute; inset: 0; overflow: hidden; }
+</style>
+<div id="root" data-composition-id="s09" data-width="1080" data-height="1920">
+<div id="s09-g" data-layout-allow-overflow style="position:absolute;inset:0;overflow:hidden;background:#ff5a5f"><div id="s09-b0" data-layout-ignore style="position:absolute;left:345px;top:62px;width:259px;height:259px;border-radius:50%;background:#ff7479"></div><div id="s09-b1" data-layout-ignore style="position:absolute;left:432px;top:303px;width:583px;height:583px;border-radius:26%;background:#ff7479"></div><div id="s09-b2" data-layout-ignore style="position:absolute;left:734px;top:760px;width:475px;height:475px;border-radius:50%;background:#ff7479"></div><div id="s09-b3" data-layout-ignore style="position:absolute;left:-43px;top:1218px;width:367px;height:367px;border-radius:26%;background:#ff7479"></div><div id="s09-b4" data-layout-ignore style="position:absolute;left:259px;top:1675px;width:259px;height:259px;border-radius:50%;background:#ff7479"></div></div><div id="s09-c" style="position:absolute;inset:0"><div style="position:absolute;left:341px;top:636px;width:399px;height:399px"><div id="s09-v" style="width:399px;height:399px;opacity:0"><div id="s09-vi" style="width:399px;height:399px"><svg viewBox="0 0 100 100" width="399" height="399"><path d="M50 6l46 82H4z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/><rect x="45.5" y="34" width="9" height="30" rx="4.5" fill="#14142b"/><circle cx="50" cy="76" r="5.5" fill="#14142b"/></svg></div></div></div><div id="s09-t" style="position:absolute;left:77px;width:926px;top:300px;text-align:center;font-family:'Montserrat',sans-serif;font-weight:900;font-size:99px;line-height:1.08;"><span id="s09-t-w0" style="display:inline-block;color:#14142b;opacity:0">a</span> <span id="s09-t-w1" style="display:inline-block;color:#14142b;opacity:0">late</span> <span id="s09-t-w2" style="display:inline-block;color:#14142b;opacity:0">supplier</span></div></div>
+</div>
+<script>
+(function(){
+const tl = gsap.timeline({ paused: true });
+tl.fromTo("#s09-b0",{x:0,y:0,rotation:0},{x:-150,y:-170,rotation:0,duration:1.77,ease:"none"},0);
+tl.fromTo("#s09-b1",{x:0,y:0,rotation:0},{x:195,y:-230,rotation:18,duration:1.77,ease:"none"},0);
+tl.fromTo("#s09-b2",{x:0,y:0,rotation:0},{x:-240,y:-290,rotation:0,duration:1.77,ease:"none"},0);
+tl.fromTo("#s09-b3",{x:0,y:0,rotation:0},{x:285,y:-350,rotation:18,duration:1.77,ease:"none"},0);
+tl.fromTo("#s09-b4",{x:0,y:0,rotation:0},{x:-330,y:-410,rotation:0,duration:1.77,ease:"none"},0);
+tl.fromTo("#s09-v",{scale:0.2,opacity:0},{scale:1,opacity:1,duration:0.5,ease:"back.out(1.5)"},0.05);
+tl.fromTo("#s09-vi",{y:-23,rotation:-4},{y:23,rotation:4,duration:0.9,ease:"sine.inOut",yoyo:true,repeat:2},0);
+tl.fromTo("#s09-t-w0",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.17);tl.fromTo("#s09-t-w1",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.24);tl.fromTo("#s09-t-w2",{opacity:0,scale:0.6},{opacity:1,scale:1,duration:0.26,ease:"back.out(1.8)"},0.31);
+tl.fromTo("#s09-c",{scale:1},{scale:1.14,duration:1.366,ease:"none"},0);
+tl.fromTo("#s09-g",{xPercent:-100,skewX:-8},{xPercent:0,skewX:0,duration:0.38,ease:"power2.inOut"},0);
+tl.to("#s09-g",{xPercent:100,duration:0.38,ease:"power2.in"},0.99);
+tl.set({}, {}, 1.366);
+window.__timelines["s09"] = tl;
+})();
+</script>
+</template>

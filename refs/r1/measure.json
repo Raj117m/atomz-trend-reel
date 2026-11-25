@@ -1,0 +1,193 @@
+{
+  "file": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/src/video.mp4",
+  "width": 1080,
+  "height": 1080,
+  "fps": 30.0,
+  "duration": 10.22,
+  "measured_seconds": 10.2,
+  "truncated": false,
+  "shots": {
+    "note": "events = hard cuts merged with background-colour changes; soft morphs inside one ground are not counted",
+    "events": [],
+    "count": 1,
+    "per_10s": 0.0,
+    "length_s": {
+      "median": 10.2,
+      "p25": 10.2,
+      "p75": 10.2,
+      "min": 10.2,
+      "max": 10.2
+    },
+    "hard_cuts": [],
+    "hard_cut_share": null
+  },
+  "visual_beats": {
+    "note": "shot events plus motion bursts (zooms, wipes, morphs): how often something new happens",
+    "times": [
+      2.3,
+      4.0,
+      7.0
+    ],
+    "per_10s": 2.94,
+    "gap_s": {
+      "median": 2.65,
+      "p25": 2.15,
+      "p75": 3.05,
+      "min": 1.7,
+      "max": 3.2
+    }
+  },
+  "ground": {
+    "changes": 0,
+    "hold_s": {
+      "median": 10.2,
+      "p25": 10.2,
+      "p75": 10.2,
+      "min": 10.2,
+      "max": 10.2
+    },
+    "share_of_frame": 0.356,
+    "colours_by_time": [
+      {
+        "hex": "#001040",
+        "seconds": 10.2
+      }
+    ],
+    "sequence": [
+      {
+        "start": 0.0,
+        "end": 10.2,
+        "hex": "#071747"
+      }
+    ]
+  },
+  "colour": {
+    "palette": [
+      {
+        "hex": "#0a194b",
+        "share": 0.413
+      },
+      {
+        "hex": "#03123b",
+        "share": 0.248
+      },
+      {
+        "hex": "#1e2465",
+        "share": 0.066
+      },
+      {
+        "hex": "#400cc7",
+        "share": 0.058
+      },
+      {
+        "hex": "#ac1e81",
+        "share": 0.058
+      },
+      {
+        "hex": "#e682b6",
+        "share": 0.058
+      },
+      {
+        "hex": "#6d3aaf",
+        "share": 0.055
+      },
+      {
+        "hex": "#568de8",
+        "share": 0.045
+      }
+    ],
+    "mean_saturation": 0.838,
+    "mean_brightness": 0.423,
+    "flat_share": 0.71
+  },
+  "motion": {
+    "note": "mean pixel change between frames at 10 fps, 0-1",
+    "median": 0.0064,
+    "p90": 0.0433,
+    "static_share": 0.079,
+    "per_second": [
+      0.01,
+      0.006,
+      0.03,
+      0.014,
+      0.028,
+      0.006,
+      0.018,
+      0.017,
+      0.011,
+      0.005,
+      0.003
+    ]
+  },
+  "audio": {
+    "present": true,
+    "lufs": -13.8,
+    "true_peak_db": -1.0,
+    "range_lu": 2.9,
+    "silence_share": 0.0,
+    "tempo": null
+  },
+  "sheets": {
+    "contact": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/contact.jpg",
+    "hook": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/hook.jpg",
+    "events": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/events.jpg"
+  },
+  "meta": {
+    "title": "Video by kurzgesagt",
+    "uploader": "Kurzgesagt - In a nutshell",
+    "webpage_url": "https://www.instagram.com/reel/DewkGlaAkfv/",
+    "duration": null,
+    "upload_date": "20261021",
+    "source": "https://www.instagram.com/reel/DewkGlaAkfv/"
+  },
+  "transcript": {
+    "source": "none",
+    "words": 0
+  },
+  "frames": [
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0001.jpg",
+      "t": "00:00"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0002.jpg",
+      "t": "00:01"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0004.jpg",
+      "t": "00:03"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0005.jpg",
+      "t": "00:03"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0006.jpg",
+      "t": "00:04"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0007.jpg",
+      "t": "00:05"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0008.jpg",
+      "t": "00:06"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0009.jpg",
+      "t": "00:07"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0010.jpg",
+      "t": "00:08"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0011.jpg",
+      "t": "00:09"
+    },
+    {
+      "path": "/Users/rajdeepmalladeb/Downloads/claude not free/atomz-trend-reel/refs/r1/watch/watch-10ggmthl/frames/frame_0012.jpg",
+      "t": "00:09"
+    }
+  ]
+}

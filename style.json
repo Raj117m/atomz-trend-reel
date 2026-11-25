@@ -1,0 +1,51 @@
+{
+  "shape": "portrait",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "palette": {
+    "grounds": [
+      "#ff5a5f",
+      "#f5f3ee"
+    ],
+    "ink_on_dark": "#ffffff",
+    "ink_on_light": "#14142b",
+    "accent": "#00a699",
+    "fills": [
+      "#ffffff",
+      "#00a699",
+      "#f5f3ee"
+    ]
+  },
+  "platform": "reels",
+  "font": "Montserrat",
+  "title_weight": 900,
+  "title_case": "sentence",
+  "title_size_pct": 5.2,
+  "corner": "round",
+  "transition": "cut",
+  "motion": "lively",
+  "backdrop": "shapes",
+  "pace_gap_s": 2.65,
+  "caption": {
+    "on": true,
+    "words_per_group": 3,
+    "size_pct": 2.8,
+    "case": "sentence",
+    "style": "outline",
+    "highlight": true
+  },
+  "voice": {
+    "id": "af_heart",
+    "speed": 1.05
+  },
+  "sfx": true,
+  "music": null,
+  "compare_skip": [
+    "palette",
+    "colour"
+  ],
+  "source": "colours from --brand; pace, transition and motion from r1",
+  "approved": true,
+  "logo_source": "assets/atomz_logo.png"
+}
